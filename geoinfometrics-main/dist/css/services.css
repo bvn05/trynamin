@@ -1,0 +1,219 @@
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&display=swap');
+
+/* .LOGO {
+    background-color: white;
+    font-weight: 900;
+    font-size: 20px;
+    display: flex;
+    align-items: center; 
+    padding-bottom: 20 px;
+    justify-content: space-between;
+  }
+
+  .LOGO h1 {
+    margin-right: 10px; 
+  }
+
+  .LOGO img {
+    max-height: 50px;
+  }
+
+ .log {
+    width: 50px; 
+    height: auto; 
+  } */
+
+  .mp {
+    background-image: url("../img/bg1.jpg");
+    height:100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 32px;
+    letter-spacing: 8px; 
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+}
+
+.gp {
+  background-image: url("../img/geo.jpg");
+  height:100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 32px;
+  letter-spacing: 8px; 
+  background-size: cover; 
+  background-position: center; 
+  background-repeat: no-repeat;
+}
+
+.msp {
+  background-image: url("../img/mis.jpg");
+  height:100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 32px;
+  letter-spacing: 8px; 
+  background-size: cover; 
+  background-position: center; 
+  background-repeat: no-repeat; 
+}
+
+.choices{
+    height:100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 32px;
+    background-color: white;
+    background-image: url('../img/abg.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    letter-spacing: 8px;
+  }
+
+  .choices .column:hover {
+    transform: scale(1.1);
+    transition: transform 0.3s ease;
+  }
+
+  .button1 {
+    display: block;
+    margin-top: 10px;
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    align-items: center;
+  }
+
+  h3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 32px;
+    letter-spacing: 8px;
+    font-weight: 900;
+  }
+
+  .fp{
+    background-image: url('../img/abg.jpg'); 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat; 
+    background-color: rgba(0, 0, 0, 0.9);
+    height: 100vh;
+  }
+
+
+  
+  .iframe-container {
+    margin-left: 150px;
+    margin-right: 150px;
+  }
+
+  .t{
+    font-family: Arial, sans-serif;
+    border-collapse: collapse;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+  }
+
+  .t :hover{
+    background-color: grey;
+  }
+
+  .t th {
+    background-color: white;
+    color: black;
+    padding: 8px;
+    text-align:center;
+    margin-left: auto;
+    margin-right: 80px;
+    border: 3px solid black;
+    /* padding: 8px; */
+  }
+
+  .button{
+    text-decoration: none;
+    color: black;
+  }
+
+  .t .button:hover{
+    color: white;
+  }
+
+
+  .sp{
+    background-image: url('../img/abg.jpg'); 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat; 
+    background-color: rgba(0, 0, 0, 0.9);
+    height: 100vh;
+  }
+
+  .lup{
+    background-image: url('../img/abg.jpg'); 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat; 
+    background-color: rgba(0, 0, 0, 0.9);
+    height: 100vh;
+  }
+
+  .fthp{
+    background-image: url('../img/abg.jpg'); 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat; 
+    background-color: rgba(0, 0, 0, 0.9);
+    height: 100vh;
+  }
+
+  .ending{
+    height:100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 32px;
+    background-image: url('../img/lpp.jpg');
+    background-repeat: no-repeat; 
+    background-position: top; 
+    background-size: contain;
+    letter-spacing: 8px;
+}
+
+
+
+/* ***********ABOUT US ************* */
+.card {
+    display: flex;
+    position: center;
+    align-items: center;
+    margin-left: 50px;
+    justify-content: space-between;
+    justify-content: space-between;
+  }
+  
+  .circle-img {
+    border-radius: 50%;
+    overflow: hidden;
+    width: 900px; 
+    height: 150px;
+    border: 5px solid black; 
+    margin-right: 20px; 
+  }
+
+
+
+  
+  
