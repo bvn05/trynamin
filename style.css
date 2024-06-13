@@ -1,0 +1,16 @@
+table{
+   border-collapse: collapse;
+}
+td{
+   padding:5px;
+   text-align: center;
+}
+
+#map { 
+   height: 180px; 
+
+}
+
+body{
+   background-color: #33AD84 ;
+}
